@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.BPCtbifl.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"assets/Pasted.md","filePath":"assets/Pasted.md","lastUpdated":1736935306000}'),a={name:"assets/Pasted.md"};function r(o,d,c,n,p,_){return s(),t("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
